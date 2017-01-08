@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Health
+Name[nl_NL]=Gezondheid
+Categories=Applications;
+Exec=invoker --single-instance --type=qtcomponents-qt5 /usr/bin/asteroid-health
+Icon=ios-heart-outline
+X-Asteroid-Center-Color=#fd354b
+X-Asteroid-Outer-Color=#901e2b
